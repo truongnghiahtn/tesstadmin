@@ -29,9 +29,6 @@ const Sidebar: React.FC<ISidebarProps> = ({ show }) => {
                       <i className="fas fa-columns" />
                     </div>
                     Layouts
-                    <div className="sb-sidenav-collapse-arrow">
-                      <i className="fas fa-angle-down" />
-                    </div>
                   </>
                 }
               >
@@ -51,9 +48,6 @@ const Sidebar: React.FC<ISidebarProps> = ({ show }) => {
                       <i className="fas fa-book-open" />
                     </div>
                     Pages
-                    <div className="sb-sidenav-collapse-arrow">
-                      <i className="fas fa-angle-down" />
-                    </div>
                   </>
                 }
               >
