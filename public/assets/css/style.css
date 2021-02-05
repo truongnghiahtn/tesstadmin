@@ -10034,7 +10034,7 @@ body {
 #layoutSidenav #layoutSidenav_nav {
   flex-basis: 225px;
   flex-shrink: 0;
-  transition: transform 0.15s ease-in-out;
+  transition: transform 0.3s ease-in-out;
   z-index: 1038;
   transform: translateX(-225px);
 }
